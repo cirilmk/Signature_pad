@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scanner_SignaturePad</string>
+
+    <string name="txt_scan_text">Scan Text: </string>
+
+    <string name="btn_clear">Clear</string>
+    <string name="btn_save">Save</string>
+
+    <string name="btn_retake">Retake</string>
+    <string name="btn_close">Close</string>
+
+    <string name="msg_detect_close">Scanner detect Some data, Please close or retake if needed</string>
+    <string name="msg_permission">App need the Camera permission to work properly</string>
+
+    <string name="msg_info">You Can write your code on this action</string>
+</resources>
